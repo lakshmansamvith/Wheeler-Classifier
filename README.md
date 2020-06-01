@@ -29,4 +29,4 @@ Folder Structure is this
  
  
  ## Training Model
- I used RMSprop optimizer and loss parameter to be binary-crossentropy, to classify into four wheelers and two wheelers.
+ I used Adam optimizer and loss parameter to be binary-crossentropy, to classify into four wheelers and two wheelers.
