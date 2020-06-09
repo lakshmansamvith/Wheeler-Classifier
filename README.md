@@ -1,5 +1,5 @@
 # Wheeler-Classifier
-A deep learning model for image classification in between four wheelers and two wheelers. 
+A deep learning model for image classification for four wheelers and two wheelers. 
 
 <ol>
 <li>Obtaining Dataset</li>
@@ -12,7 +12,8 @@ A deep learning model for image classification in between four wheelers and two 
    Obtaining dataset for this model was surprisingly tough, I expected to find images for this with ease with the help of this tool.  
    [Image Collector](https://chrome.google.com/webstore/detail/download-all-images/ifipmflagepipjokmbdecpmjbibjnakm?hl=en)<br/><br/>
    All you need to do is search for the images you want, scrool from top to bottom in Google Images or any other sources such as   
-   Unsplash, and click on the extension. The dataset consists of a more than 8000 images
+   Unsplash, and click on the extension. Though, it's just scrolling and clicking, collecting a dataset for more than 8000 images was  
+   tough. 
 
 This is the folder structure. 
 * Wheeler Classifier 
