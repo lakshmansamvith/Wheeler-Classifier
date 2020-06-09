@@ -31,6 +31,7 @@ This is the folder structure.
  ## Creating Transfer Model
     I used a Transfer Model, InceptionV3 using which I trained all the images. I set the layers.trainable to False, except for the last     two layers  and created the last two layers.  
  
+   
    ![Inception Model](https://github.com/lakshmansamvith/Wheeler-Classifier/blob/master/Inception.png)
  
  
